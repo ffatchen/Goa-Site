@@ -1,0 +1,49 @@
+baseurl: https://shenoybr.github.io/hugo-goa-demo/
+builddrafts: no
+canonifyurls: no
+languageCode: en-US
+contentdir: content
+layoutdir: layouts
+publishdir: public
+author: Faith Fatchen
+title: Faith Fatchen
+theme: hugo-goa
+disqusShortname: https-shenoybr-github-io-hugo-goa-demo
+googleAnalytics: XYZ
+enableRobotsTXT: yes
+params:
+  author: Faith Fatchen
+  authorimage: 
+  dateformat: Jan 2, 2006
+  description: Welcome to my website!
+  extra:
+    copyright: 
+    displayrssicon: yes
+    highlightjs: yes
+    poweredby: yes
+    socialmarkup: yes
+    toc: yes
+  intro: 
+  meta:
+    description: Simple minimalist theme
+    keywords: minimalist,blog,goa,hugo,developer
+  social:
+    email: faithfatchen7@gmail.com
+    github: ffatchen
+    goodreads: ffatchen
+    linkedin: ffatchen
+    strava: 26925430
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 100
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 200
+    - identifier: coderag
+      name: coderag
+      url: /coderag/
+      weight: 300
