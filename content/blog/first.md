@@ -1,7 +1,6 @@
 ---
 comments: false
 date: "2022-02-2022"
-description: 
 draft: false
 showcomments: true
 showpagemeta: true
